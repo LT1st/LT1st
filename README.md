@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Steven      
 - 👀 I’m interested in the field of Computer Vision and other task regrading AI.
 - 🌱 I’m currently learning in Northeastern University in Shenyang.
-- 💞️ I’m looking to collaborate on OD\IS\GA.
+- 💞️ I’m looking to collaborate on OD\IS\GA\NAS\Adversarial Attack.
 
 
 <!---
