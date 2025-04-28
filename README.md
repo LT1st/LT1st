@@ -1,11 +1,25 @@
-- 👋 Hi, I’m Steven      
-- 👀 I’m interested in the field of Computer Vision and other task regrading AI.
-- 🌱 I’m currently learning in Northeastern University in Shenyang.
-- 💞️ I’m looking to collaborate on :
-- Traditional Optimizing Problem: OD\ IS\ GA
-- NAS Problem: Data Pruning\ Genetic Algorithm
-- Adversarial Attack
-- 3D vision: Diffusion Models 
+# 👋 Hi, I'm Steven  
+
+### 🔍 Interests  
+Computer Vision | AI-related tasks  
+
+### 🎓 Education  
+Northeastern University, Shenyang  
+
+### 🤝 Collaboration Interests  
+- Diffusion models  
+- Adversarial Attack  
+- 3D vision  
+
+### 🔧 Current Projects  
+** Diffusion models **
+- Image generation and its downstream tasks
+- Optimization of diffusion models
+
+### Past Projects
+**Neural Architecture Search**  
+- Data Pruning  
+- Genetic Algorithm  
 
 
 <!---
